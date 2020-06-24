@@ -119,7 +119,7 @@
                         <br />
                         <br />
                     </div>
-                        <div class="card-footer text-center" >本系统肇庆学院xxx提供技术支持</div>
+                        <div class="card-footer text-center" >本系统肇庆学院黄学平提供技术支持</div>
                 </div>
             </div> 
         </div>
